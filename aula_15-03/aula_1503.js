@@ -1,0 +1,1 @@
+alert('Estou na maior preguiça');
