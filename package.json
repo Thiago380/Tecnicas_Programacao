@@ -1,0 +1,25 @@
+{
+  "name": "tecnicas_programacao",
+  "version": "1.0.0",
+  "description": "Projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago380/Tecnicas_Programacao.git"
+  },
+  "keywords": [
+    "projeto",
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Thiago Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago380/Tecnicas_Programacao/issues"
+  },
+  "homepage": "https://github.com/Thiago380/Tecnicas_Programacao#readme"
+}
